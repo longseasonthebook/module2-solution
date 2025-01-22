@@ -72,21 +72,21 @@ header h1 {
 .title-section.beef {
     background-color: #FF5733;
     color: #fff;
-    border-color: #FF5733;
+    border-color: #000;
     text-align: right;
 }
 
 .title-section.chicken {
     background-color: #FFC300;
     color: #fff;
-    border-color: #FFC300;
+    border-color: #000;
     text-align: right;
 }
 
 .title-section.pork {
     background-color: #d1ff7c;
     color: #fff;
-    border-color: #DAF7A6;
+    border-color: #000;
     text-align: right;
 }
 

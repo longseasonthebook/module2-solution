@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     padding: 20px;
-    background-color: #f9f9f9;
+    background-color: #d1d1d1;
     color: #333;
 }
 
@@ -46,14 +46,17 @@ header h1 {
 
 .menu-item.beef {
     border-color: #FF5733;
+    background-color: #bdbdbd;
 }
 
 .menu-item.chicken {
     border-color: #FFC300;
+    background-color: #bdbdbd;
 }
 
 .menu-item.pork {
     border-color: #d1ff7c;
+    background-color: #bdbdbd;
 }
 
 .title-section {

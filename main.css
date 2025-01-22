@@ -70,33 +70,24 @@ header h1 {
 }
 
 .title-section.beef {
-    border: 1px solid black;
-    float: right;
-    text-align: center;
-    width: 150px;
-    font-size: 20px;
-    font-weight: bold;
-    padding: 5px 30px 5px 30px;
+    background-color: #FF5733;
+    color: #fff;
+    border-color: #000;
+    text-align: right;
 }
 
 .title-section.chicken {
-    border: 1px solid black;
-    float: right;
-    text-align: center;
-    width: 150px;
-    font-size: 20px;
-    font-weight: bold;
-    padding: 5px 30px 5px 30px;
+    background-color: #FFC300;
+    color: #fff;
+    border-color: #000;
+    text-align: right;
 }
 
 .title-section.pork {
-    border: 1px solid black;
-    float: right;
-    text-align: center;
-    width: 150px;
-    font-size: 20px;
-    font-weight: bold;
-    padding: 5px 30px 5px 30px;
+    background-color: #d1ff7c;
+    color: #fff;
+    border-color: #000;
+    text-align: right;
 }
 
 /* Content Section */

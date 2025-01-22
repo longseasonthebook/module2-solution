@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment for Module 2</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header>
+        <h1>Our Menu</h1>
+    </header>
+    <div class="menu-container">
+        <!-- Beef Item -->
+        <div class="menu-item beef">
+            <div class="title-section beef">Beef</div>
+            <div class="content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada, nisl vel tincidunt gravida,
+                    ligula velit tincidunt libero.</p>
+            </div>
+        </div>
+    
+        <!-- Chicken Item -->
+        <div class="menu-item chicken">
+            <div class="title-section chicken">Chicken</div>
+            <div class="content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada, nisl vel tincidunt gravida,
+                    ligula velit tincidunt libero.</p>
+            </div>
+        </div>
+    
+        <!-- Pork Item -->
+        <div class="menu-item pork">
+            <div class="title-section pork">Pork</div>
+            <div class="content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada, nisl vel tincidunt gravida,
+                    ligula velit tincidunt libero.</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
